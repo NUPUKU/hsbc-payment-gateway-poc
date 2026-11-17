@@ -56,7 +56,7 @@
   <distributionManagement>
     <snapshotRepository>
       <id>nexusdeploymentrepo</id>
-      <url>http://34.229.209.177:8081/repository/hsbc-payment-gateway-snapshots-repo/</url>
+      <url>http://10.0.5.227:8081/repository/hsbc-payment-gateway-snapshots-repo/</url>
     </snapshotRepository>
     <repository>
       <id>nexusdeploymentrepo</id>
